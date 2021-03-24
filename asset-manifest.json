@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/asistencia-tsds/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/asistencia-tsds/static/js/main.16f64450.chunk.js",
+    "main.js.map": "/asistencia-tsds/static/js/main.16f64450.chunk.js.map",
+    "runtime-main.js": "/asistencia-tsds/static/js/runtime-main.d2a48ceb.js",
+    "runtime-main.js.map": "/asistencia-tsds/static/js/runtime-main.d2a48ceb.js.map",
+    "static/js/2.a431b5b6.chunk.js": "/asistencia-tsds/static/js/2.a431b5b6.chunk.js",
+    "static/js/2.a431b5b6.chunk.js.map": "/asistencia-tsds/static/js/2.a431b5b6.chunk.js.map",
+    "index.html": "/asistencia-tsds/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/asistencia-tsds/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.a431b5b6.chunk.js.LICENSE.txt": "/asistencia-tsds/static/js/2.a431b5b6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d2a48ceb.js",
+    "static/js/2.a431b5b6.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.16f64450.chunk.js"
+  ]
+}
